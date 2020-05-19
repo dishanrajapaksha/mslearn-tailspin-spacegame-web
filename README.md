@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/talesfromearth/Learn/_apis/build/status/dishanrajapaksha.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/talesfromearth/Learn/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
